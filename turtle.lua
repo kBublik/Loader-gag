@@ -150,7 +150,7 @@ getgenv().Sea = {
 
     Settings = {
         FPS = 5, -- FPS for the game
-        TrackStats = false,
+        TrackStats = true,
         ReduceLag = true, -- enable for reduce lag
         Server = {
             HopServer = false, -- When 15 - 30 min will Hop Server
