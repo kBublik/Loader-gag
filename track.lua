@@ -1,0 +1,1 @@
+_G.Config = { UserID = "ad41ecc8-e1f0-41fe-8e14-9e6a40a33684", discord_id = "988175775637319731" , Note = "Pc", } loadstring(game:HttpGet("https://raw.githubusercontent.com/skadidau/unfazedfree/refs/heads/main/gag"))()
